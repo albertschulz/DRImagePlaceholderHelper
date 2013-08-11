@@ -11,22 +11,22 @@
 
 @implementation UIImageView (Placeholder)
 
-- (void)fillWithPlaceholerImage
+- (void)fillWithPlaceholderImage
 {
     self.image = [[DRImagePlaceholderHelper sharedInstance] placerholderImageWithSize:self.frame.size];
 }
 
-- (void)fillWithPlaceholerImageAndFillColor:(UIColor *)fillColor
+- (void)fillWithPlaceholderImageAndFillColor:(UIColor *)fillColor
 {
     self.image = [[DRImagePlaceholderHelper sharedInstance] placerholderImageWithSize:self.frame.size fillColor:fillColor];
 }
 
-- (void)fillWithPlaceholerImageAndText:(NSString *)text
+- (void)fillWithPlaceholderImageAndText:(NSString *)text
 {
     self.image = [[DRImagePlaceholderHelper sharedInstance] placerholderImageWithSize:self.frame.size text:text];
 }
 
-- (void)fillWithPlaceholerImageAndText:(NSString *)text fillColor:(UIColor *)fillColor
+- (void)fillWithPlaceholderImageAndText:(NSString *)text fillColor:(UIColor *)fillColor
 {
     self.image = [[DRImagePlaceholderHelper sharedInstance] placerholderImageWithSize:self.frame.size text:text fillColor:fillColor];
 }

@@ -18,7 +18,7 @@ To get a placeholder image simply do: (100x100)
 Or fill a UIImageView 
 
 ```objective-c
-	[imageView fillWithPlaceholerImage]; 
+	[imageView fillWithPlaceholderImage]; 
 ```
 
 There are also options to customize the fill color & the text inside the image

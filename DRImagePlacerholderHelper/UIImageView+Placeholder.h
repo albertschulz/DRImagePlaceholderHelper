@@ -10,10 +10,10 @@
 
 @interface UIImageView (Placeholder)
 
-- (void)fillWithPlaceholerImage;
-- (void)fillWithPlaceholerImageAndFillColor:(UIColor *)fillColor;
-- (void)fillWithPlaceholerImageAndText:(NSString *)text;
-- (void)fillWithPlaceholerImageAndText:(NSString *)text fillColor:(UIColor *)fillColor;
+- (void)fillWithPlaceholderImage;
+- (void)fillWithPlaceholderImageAndFillColor:(UIColor *)fillColor;
+- (void)fillWithPlaceholderImageAndText:(NSString *)text;
+- (void)fillWithPlaceholderImageAndText:(NSString *)text fillColor:(UIColor *)fillColor;
 - (void)fillWithAvatarPlaceholder;
 
 @end
