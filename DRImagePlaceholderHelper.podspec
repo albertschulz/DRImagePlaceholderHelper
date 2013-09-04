@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     =  'http://github.com/albertschulz/DRImagePlaceholderHelper'
   s.platform     =  :ios
   s.source_files =  'DRImagePlaceholderHelper/*.{h,m}'
+  s.public_header_files = 'DRImagePlaceholderHelper/**/*.h'
   s.requires_arc =  true
   s.ios.deployment_target = '5.0'
 end
