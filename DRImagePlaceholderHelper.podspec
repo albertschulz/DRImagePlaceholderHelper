@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.source       =  { :git => 'https://github.com/albertschulz/DRImagePlaceholderHelper.git', :tag => '1.0.0' }
   s.homepage     =  'http://github.com/albertschulz/DRImagePlaceholderHelper'
   s.platform     =  :ios
-  s.source_files =  'DRImagePlaceholderHelper'
+  s.source_files =  'DRImagePlaceholderHelper/*.{h,m}'
   s.requires_arc =  true
   s.ios.deployment_target = '5.0'
 end
