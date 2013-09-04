@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1DE9AAF-C9CF-43AD-9ED5-D3041A4C791F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DRImagePlaceholderHelperExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>47DC05F8-E544-4A6B-9E4B-0BC9F7935C16</key>
+		<string>https://github.com/albertschulz/DRImagePlaceholderHelper</string>
+		<key>E3F5750E-F0CD-4DE8-AB4C-0D1EE5075E00</key>
+		<string>https://github.com/albertschulz/DRImagePlacerholderHelper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DRImagePlaceholderHelperExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>47DC05F8-E544-4A6B-9E4B-0BC9F7935C16</key>
+		<string>../..</string>
+		<key>E3F5750E-F0CD-4DE8-AB4C-0D1EE5075E00</key>
+		<string>../../DRImagePlaceholderHelper</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/albertschulz/DRImagePlaceholderHelper</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>47DC05F8-E544-4A6B-9E4B-0BC9F7935C16</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>47DC05F8-E544-4A6B-9E4B-0BC9F7935C16</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DRImagePlaceholderHelper</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E3F5750E-F0CD-4DE8-AB4C-0D1EE5075E00</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DRImagePlacerholderHelper</string>
+		</dict>
+	</array>
+</dict>
+</plist>

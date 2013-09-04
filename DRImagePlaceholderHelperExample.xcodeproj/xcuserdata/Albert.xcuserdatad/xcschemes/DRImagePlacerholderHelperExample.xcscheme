@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E1D5E83E17B798C300B6604B"
-               BuildableName = "DRImagePlacerholderHelperExample.app"
+               BuildableName = "DRImagePlaceholderHelperExample.app"
                BlueprintName = "DRImagePlaceholderHelperExample"
                ReferencedContainer = "container:DRImagePlaceholderHelperExample.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E1D5E85F17B798C400B6604B"
-               BuildableName = "DRImagePlacerholderHelperExampleTests.xctest"
+               BuildableName = "DRImagePlaceholderHelperExampleTests.xctest"
                BlueprintName = "DRImagePlaceholderHelperExampleTests"
                ReferencedContainer = "container:DRImagePlaceholderHelperExample.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E1D5E83E17B798C300B6604B"
-            BuildableName = "DRImagePlacerholderHelperExample.app"
+            BuildableName = "DRImagePlaceholderHelperExample.app"
             BlueprintName = "DRImagePlaceholderHelperExample"
             ReferencedContainer = "container:DRImagePlaceholderHelperExample.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E1D5E83E17B798C300B6604B"
-            BuildableName = "DRImagePlacerholderHelperExample.app"
+            BuildableName = "DRImagePlaceholderHelperExample.app"
             BlueprintName = "DRImagePlaceholderHelperExample"
             ReferencedContainer = "container:DRImagePlaceholderHelperExample.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E1D5E83E17B798C300B6604B"
-            BuildableName = "DRImagePlacerholderHelperExample.app"
+            BuildableName = "DRImagePlaceholderHelperExample.app"
             BlueprintName = "DRImagePlaceholderHelperExample"
             ReferencedContainer = "container:DRImagePlaceholderHelperExample.xcodeproj">
          </BuildableReference>
