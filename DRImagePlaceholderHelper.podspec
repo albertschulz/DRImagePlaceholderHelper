@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.license      =  'MIT'
   s.summary      =  'easy programmatically created placeholder UIImages'
   s.author       =  { 'Albert Schulz' => 'http://halfco.de' }
-  s.source       =  { :git => 'https://github.com/albertschulz/DRImagePlaceholderHelper.git', :tag => '1.0.0' }
+  s.source       =  { :git => 'https://github.com/albertschulz/DRImagePlaceholderHelper.git', :tag => '1.0.1' }
   s.homepage     =  'http://github.com/albertschulz/DRImagePlaceholderHelper'
   s.platform     =  :ios
   s.frameworks   =  'Foundation', 'UIKit'
