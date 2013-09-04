@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50C2B53517D77F930062FDCA /* DRImagePlaceholderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C2B52517D77F930062FDCA /* DRImagePlaceholderHelper.m */; };
+		50C2B53617D77F930062FDCA /* UIImageView+Placeholder.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C2B52717D77F930062FDCA /* UIImageView+Placeholder.m */; };
+		50C2B53717D77F930062FDCA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C2B52A17D77F930062FDCA /* AppDelegate.m */; };
+		50C2B53817D77F930062FDCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50C2B52B17D77F930062FDCA /* Main.storyboard */; };
+		50C2B53917D77F930062FDCA /* DRImagePlaceholderHelperExample-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 50C2B52D17D77F930062FDCA /* DRImagePlaceholderHelperExample-Info.plist */; };
+		50C2B53A17D77F930062FDCA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 50C2B52F17D77F930062FDCA /* InfoPlist.strings */; };
+		50C2B53B17D77F930062FDCA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50C2B53117D77F930062FDCA /* Images.xcassets */; };
+		50C2B53C17D77F930062FDCA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C2B53217D77F930062FDCA /* main.m */; };
+		50C2B53D17D77F930062FDCA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C2B53417D77F930062FDCA /* ViewController.m */; };
 		E1D5E84317B798C300B6604B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1D5E84217B798C300B6604B /* Foundation.framework */; };
 		E1D5E84517B798C400B6604B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1D5E84417B798C400B6604B /* CoreGraphics.framework */; };
 		E1D5E84717B798C400B6604B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1D5E84617B798C400B6604B /* UIKit.framework */; };
 		E1D5E86217B798C400B6604B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1D5E86117B798C400B6604B /* XCTest.framework */; };
 		E1D5E86317B798C400B6604B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1D5E84217B798C300B6604B /* Foundation.framework */; };
 		E1D5E86417B798C400B6604B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1D5E84617B798C400B6604B /* UIKit.framework */; };
-		E1D5E89B17B7AE4000B6604B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E1D5E88617B7AE4000B6604B /* AppDelegate.m */; };
-		E1D5E89C17B7AE4000B6604B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1D5E88717B7AE4000B6604B /* Main.storyboard */; };
-		E1D5E89F17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E1D5E88E17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Info.plist */; };
-		E1D5E8A017B7AE4000B6604B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E1D5E89017B7AE4000B6604B /* InfoPlist.strings */; };
-		E1D5E8A117B7AE4000B6604B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1D5E89217B7AE4000B6604B /* Images.xcassets */; };
-		E1D5E8A217B7AE4000B6604B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E1D5E89317B7AE4000B6604B /* main.m */; };
-		E1D5E8A317B7AE4000B6604B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1D5E89517B7AE4000B6604B /* ViewController.m */; };
-		E1D5E8AC17B7AEFB00B6604B /* DRImagePlaceholderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = E1D5E8A917B7AEFB00B6604B /* DRImagePlaceholderHelper.m */; };
-		E1D5E8AD17B7AEFB00B6604B /* UIImageView+Placeholder.m in Sources */ = {isa = PBXBuildFile; fileRef = E1D5E8AB17B7AEFB00B6604B /* UIImageView+Placeholder.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,26 +35,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E1D5E83F17B798C300B6604B /* DRImagePlacerholderHelperExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DRImagePlacerholderHelperExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		50C2B52417D77F930062FDCA /* DRImagePlaceholderHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DRImagePlaceholderHelper.h; sourceTree = "<group>"; };
+		50C2B52517D77F930062FDCA /* DRImagePlaceholderHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DRImagePlaceholderHelper.m; sourceTree = "<group>"; };
+		50C2B52617D77F930062FDCA /* UIImageView+Placeholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+Placeholder.h"; sourceTree = "<group>"; };
+		50C2B52717D77F930062FDCA /* UIImageView+Placeholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+Placeholder.m"; sourceTree = "<group>"; };
+		50C2B52917D77F930062FDCA /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		50C2B52A17D77F930062FDCA /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		50C2B52C17D77F930062FDCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		50C2B52D17D77F930062FDCA /* DRImagePlaceholderHelperExample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "DRImagePlaceholderHelperExample-Info.plist"; sourceTree = "<group>"; };
+		50C2B52E17D77F930062FDCA /* DRImagePlaceholderHelperExample-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DRImagePlaceholderHelperExample-Prefix.pch"; sourceTree = "<group>"; };
+		50C2B53017D77F930062FDCA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50C2B53117D77F930062FDCA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		50C2B53217D77F930062FDCA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		50C2B53317D77F930062FDCA /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		50C2B53417D77F930062FDCA /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E1D5E83F17B798C300B6604B /* DRImagePlaceholderHelperExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DRImagePlaceholderHelperExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1D5E84217B798C300B6604B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E1D5E84417B798C400B6604B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		E1D5E84617B798C400B6604B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		E1D5E86017B798C400B6604B /* DRImagePlacerholderHelperExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DRImagePlacerholderHelperExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1D5E86017B798C400B6604B /* DRImagePlaceholderHelperExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DRImagePlaceholderHelperExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1D5E86117B798C400B6604B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		E1D5E88517B7AE4000B6604B /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		E1D5E88617B7AE4000B6604B /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E1D5E88817B7AE4000B6604B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E1D5E88E17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "DRImagePlacerholderHelperExample-Info.plist"; sourceTree = "<group>"; };
-		E1D5E88F17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DRImagePlacerholderHelperExample-Prefix.pch"; sourceTree = "<group>"; };
-		E1D5E89117B7AE4000B6604B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		E1D5E89217B7AE4000B6604B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		E1D5E89317B7AE4000B6604B /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E1D5E89417B7AE4000B6604B /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		E1D5E89517B7AE4000B6604B /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		E1D5E8A817B7AEFB00B6604B /* DRImagePlaceholderHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DRImagePlaceholderHelper.h; sourceTree = "<group>"; };
-		E1D5E8A917B7AEFB00B6604B /* DRImagePlaceholderHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DRImagePlaceholderHelper.m; sourceTree = "<group>"; };
-		E1D5E8AA17B7AEFB00B6604B /* UIImageView+Placeholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+Placeholder.h"; sourceTree = "<group>"; };
-		E1D5E8AB17B7AEFB00B6604B /* UIImageView+Placeholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+Placeholder.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,10 +81,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		50C2B52317D77F930062FDCA /* DRImagePlaceholderHelper */ = {
+			isa = PBXGroup;
+			children = (
+				50C2B52417D77F930062FDCA /* DRImagePlaceholderHelper.h */,
+				50C2B52517D77F930062FDCA /* DRImagePlaceholderHelper.m */,
+				50C2B52617D77F930062FDCA /* UIImageView+Placeholder.h */,
+				50C2B52717D77F930062FDCA /* UIImageView+Placeholder.m */,
+			);
+			path = DRImagePlaceholderHelper;
+			sourceTree = SOURCE_ROOT;
+		};
+		50C2B52817D77F930062FDCA /* DRImagePlaceholderHelperExample */ = {
+			isa = PBXGroup;
+			children = (
+				50C2B52917D77F930062FDCA /* AppDelegate.h */,
+				50C2B52A17D77F930062FDCA /* AppDelegate.m */,
+				50C2B52B17D77F930062FDCA /* Main.storyboard */,
+				50C2B52D17D77F930062FDCA /* DRImagePlaceholderHelperExample-Info.plist */,
+				50C2B52E17D77F930062FDCA /* DRImagePlaceholderHelperExample-Prefix.pch */,
+				50C2B52F17D77F930062FDCA /* InfoPlist.strings */,
+				50C2B53117D77F930062FDCA /* Images.xcassets */,
+				50C2B53217D77F930062FDCA /* main.m */,
+				50C2B53317D77F930062FDCA /* ViewController.h */,
+				50C2B53417D77F930062FDCA /* ViewController.m */,
+			);
+			path = DRImagePlaceholderHelperExample;
+			sourceTree = SOURCE_ROOT;
+		};
 		E1D5E83617B798C300B6604B = {
 			isa = PBXGroup;
 			children = (
-				E1D5E88417B7AE4000B6604B /* DRImagePlacerholderHelperExample */,
+				E1D5E88417B7AE4000B6604B /* DRImagePlaceholderHelperExample */,
 				E1D5E84117B798C300B6604B /* Frameworks */,
 				E1D5E84017B798C300B6604B /* Products */,
 			);
@@ -93,8 +121,8 @@
 		E1D5E84017B798C300B6604B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E1D5E83F17B798C300B6604B /* DRImagePlacerholderHelperExample.app */,
-				E1D5E86017B798C400B6604B /* DRImagePlacerholderHelperExampleTests.xctest */,
+				E1D5E83F17B798C300B6604B /* DRImagePlaceholderHelperExample.app */,
+				E1D5E86017B798C400B6604B /* DRImagePlaceholderHelperExampleTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -110,41 +138,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E1D5E88417B7AE4000B6604B /* DRImagePlacerholderHelperExample */ = {
+		E1D5E88417B7AE4000B6604B /* DRImagePlaceholderHelperExample */ = {
 			isa = PBXGroup;
 			children = (
-				E1D5E8A717B7AE4A00B6604B /* DRImagePlacerholderHelper */,
-				E1D5E88517B7AE4000B6604B /* AppDelegate.h */,
-				E1D5E88617B7AE4000B6604B /* AppDelegate.m */,
-				E1D5E88717B7AE4000B6604B /* Main.storyboard */,
-				E1D5E88E17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Info.plist */,
-				E1D5E88F17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Prefix.pch */,
-				E1D5E89017B7AE4000B6604B /* InfoPlist.strings */,
-				E1D5E89217B7AE4000B6604B /* Images.xcassets */,
-				E1D5E89317B7AE4000B6604B /* main.m */,
-				E1D5E89417B7AE4000B6604B /* ViewController.h */,
-				E1D5E89517B7AE4000B6604B /* ViewController.m */,
+				50C2B52317D77F930062FDCA /* DRImagePlaceholderHelper */,
+				50C2B52817D77F930062FDCA /* DRImagePlaceholderHelperExample */,
 			);
+			name = DRImagePlaceholderHelperExample;
 			path = DRImagePlacerholderHelperExample;
 			sourceTree = "<group>";
-		};
-		E1D5E8A717B7AE4A00B6604B /* DRImagePlacerholderHelper */ = {
-			isa = PBXGroup;
-			children = (
-				E1D5E8A817B7AEFB00B6604B /* DRImagePlaceholderHelper.h */,
-				E1D5E8A917B7AEFB00B6604B /* DRImagePlaceholderHelper.m */,
-				E1D5E8AA17B7AEFB00B6604B /* UIImageView+Placeholder.h */,
-				E1D5E8AB17B7AEFB00B6604B /* UIImageView+Placeholder.m */,
-			);
-			path = DRImagePlacerholderHelper;
-			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E1D5E83E17B798C300B6604B /* DRImagePlacerholderHelperExample */ = {
+		E1D5E83E17B798C300B6604B /* DRImagePlaceholderHelperExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E1D5E87117B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlacerholderHelperExample" */;
+			buildConfigurationList = E1D5E87117B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlaceholderHelperExample" */;
 			buildPhases = (
 				E1D5E83B17B798C300B6604B /* Sources */,
 				E1D5E83C17B798C300B6604B /* Frameworks */,
@@ -154,14 +163,14 @@
 			);
 			dependencies = (
 			);
-			name = DRImagePlacerholderHelperExample;
+			name = DRImagePlaceholderHelperExample;
 			productName = DRImagePlacerholerHelperExample;
-			productReference = E1D5E83F17B798C300B6604B /* DRImagePlacerholderHelperExample.app */;
+			productReference = E1D5E83F17B798C300B6604B /* DRImagePlaceholderHelperExample.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E1D5E85F17B798C400B6604B /* DRImagePlacerholderHelperExampleTests */ = {
+		E1D5E85F17B798C400B6604B /* DRImagePlaceholderHelperExampleTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E1D5E87417B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlacerholderHelperExampleTests" */;
+			buildConfigurationList = E1D5E87417B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlaceholderHelperExampleTests" */;
 			buildPhases = (
 				E1D5E85C17B798C400B6604B /* Sources */,
 				E1D5E85D17B798C400B6604B /* Frameworks */,
@@ -172,9 +181,9 @@
 			dependencies = (
 				E1D5E86617B798C400B6604B /* PBXTargetDependency */,
 			);
-			name = DRImagePlacerholderHelperExampleTests;
+			name = DRImagePlaceholderHelperExampleTests;
 			productName = DRImagePlacerholerHelperExampleTests;
-			productReference = E1D5E86017B798C400B6604B /* DRImagePlacerholderHelperExampleTests.xctest */;
+			productReference = E1D5E86017B798C400B6604B /* DRImagePlaceholderHelperExampleTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -191,7 +200,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E1D5E83A17B798C300B6604B /* Build configuration list for PBXProject "DRImagePlacerholderHelperExample" */;
+			buildConfigurationList = E1D5E83A17B798C300B6604B /* Build configuration list for PBXProject "DRImagePlaceholderHelperExample" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -204,8 +213,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E1D5E83E17B798C300B6604B /* DRImagePlacerholderHelperExample */,
-				E1D5E85F17B798C400B6604B /* DRImagePlacerholderHelperExampleTests */,
+				E1D5E83E17B798C300B6604B /* DRImagePlaceholderHelperExample */,
+				E1D5E85F17B798C400B6604B /* DRImagePlaceholderHelperExampleTests */,
 			);
 		};
 /* End PBXProject section */
@@ -215,10 +224,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1D5E89F17B7AE4000B6604B /* DRImagePlacerholderHelperExample-Info.plist in Resources */,
-				E1D5E8A117B7AE4000B6604B /* Images.xcassets in Resources */,
-				E1D5E8A017B7AE4000B6604B /* InfoPlist.strings in Resources */,
-				E1D5E89C17B7AE4000B6604B /* Main.storyboard in Resources */,
+				50C2B53817D77F930062FDCA /* Main.storyboard in Resources */,
+				50C2B53B17D77F930062FDCA /* Images.xcassets in Resources */,
+				50C2B53A17D77F930062FDCA /* InfoPlist.strings in Resources */,
+				50C2B53917D77F930062FDCA /* DRImagePlaceholderHelperExample-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,11 +245,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1D5E89B17B7AE4000B6604B /* AppDelegate.m in Sources */,
-				E1D5E8AD17B7AEFB00B6604B /* UIImageView+Placeholder.m in Sources */,
-				E1D5E8AC17B7AEFB00B6604B /* DRImagePlaceholderHelper.m in Sources */,
-				E1D5E8A217B7AE4000B6604B /* main.m in Sources */,
-				E1D5E8A317B7AE4000B6604B /* ViewController.m in Sources */,
+				50C2B53617D77F930062FDCA /* UIImageView+Placeholder.m in Sources */,
+				50C2B53517D77F930062FDCA /* DRImagePlaceholderHelper.m in Sources */,
+				50C2B53C17D77F930062FDCA /* main.m in Sources */,
+				50C2B53717D77F930062FDCA /* AppDelegate.m in Sources */,
+				50C2B53D17D77F930062FDCA /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,24 +265,24 @@
 /* Begin PBXTargetDependency section */
 		E1D5E86617B798C400B6604B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E1D5E83E17B798C300B6604B /* DRImagePlacerholderHelperExample */;
+			target = E1D5E83E17B798C300B6604B /* DRImagePlaceholderHelperExample */;
 			targetProxy = E1D5E86517B798C400B6604B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E1D5E88717B7AE4000B6604B /* Main.storyboard */ = {
+		50C2B52B17D77F930062FDCA /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E1D5E88817B7AE4000B6604B /* Base */,
+				50C2B52C17D77F930062FDCA /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E1D5E89017B7AE4000B6604B /* InfoPlist.strings */ = {
+		50C2B52F17D77F930062FDCA /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E1D5E89117B7AE4000B6604B /* en */,
+				50C2B53017D77F930062FDCA /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -355,9 +364,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "DRImagePlacerholderHelperExample/DRImagePlacerholderHelperExample-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/DRImagePlacerholderHelperExample/DRImagePlacerholderHelperExample-Info.plist";
-				PRODUCT_NAME = DRImagePlacerholderHelperExample;
+				GCC_PREFIX_HEADER = "DRImagePlaceholderHelperExample/DRImagePlaceholderHelperExample-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/DRImagePlaceholderHelperExample/DRImagePlaceholderHelperExample-Info.plist";
+				PRODUCT_NAME = DRImagePlaceholderHelperExample;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -368,9 +377,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "DRImagePlacerholderHelperExample/DRImagePlacerholderHelperExample-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/DRImagePlacerholderHelperExample/DRImagePlacerholderHelperExample-Info.plist";
-				PRODUCT_NAME = DRImagePlacerholderHelperExample;
+				GCC_PREFIX_HEADER = "DRImagePlaceholderHelperExample/DRImagePlaceholderHelperExample-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/DRImagePlaceholderHelperExample/DRImagePlaceholderHelperExample-Info.plist";
+				PRODUCT_NAME = DRImagePlaceholderHelperExample;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -391,7 +400,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "DRImagePlacerholerHelperExampleTests/DRImagePlacerholderHelperExampleTests-Info.plist";
-				PRODUCT_NAME = DRImagePlacerholderHelperExampleTests;
+				PRODUCT_NAME = DRImagePlaceholderHelperExampleTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -409,7 +418,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DRImagePlacerholerHelperExample/DRImagePlacerholerHelperExample-Prefix.pch";
 				INFOPLIST_FILE = "DRImagePlacerholerHelperExampleTests/DRImagePlacerholderHelperExampleTests-Info.plist";
-				PRODUCT_NAME = DRImagePlacerholderHelperExampleTests;
+				PRODUCT_NAME = DRImagePlaceholderHelperExampleTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -418,7 +427,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E1D5E83A17B798C300B6604B /* Build configuration list for PBXProject "DRImagePlacerholderHelperExample" */ = {
+		E1D5E83A17B798C300B6604B /* Build configuration list for PBXProject "DRImagePlaceholderHelperExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E1D5E86F17B798C400B6604B /* Debug */,
@@ -427,7 +436,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E1D5E87117B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlacerholderHelperExample" */ = {
+		E1D5E87117B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlaceholderHelperExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E1D5E87217B798C400B6604B /* Debug */,
@@ -436,7 +445,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E1D5E87417B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlacerholderHelperExampleTests" */ = {
+		E1D5E87417B798C400B6604B /* Build configuration list for PBXNativeTarget "DRImagePlaceholderHelperExampleTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E1D5E87517B798C400B6604B /* Debug */,
