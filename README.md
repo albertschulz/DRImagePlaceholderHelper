@@ -12,7 +12,7 @@ At first you have to import the Framework
 To get a placeholder image simply do: (100x100)
 
 ```objective-c
-	UIImage *placeholderImage = [[DRImagePlaceholderHelper sharedInstance] placerholderImageWithSize:CGSizeMake(100,100)];
+	UIImage *placeholderImage = [[DRImagePlaceholderHelper sharedInstance] placeholderImageWithSize:CGSizeMake(100,100)];
 ```
 
 Or fill a UIImageView 
